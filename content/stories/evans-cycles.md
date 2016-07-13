@@ -37,7 +37,7 @@ Started in 1921, Evans Cycles is the UK’s largest multichannel cycle retailer 
 
 ## Building a leading digital business 
 
-Since its inception, the Evans Cycles website has consistently been in a state of evolution, adding features and functionality to keep pace with customers’ online shopping needs. But in terms of user experience and analytics, Evans Cycles was falling flat. Web Analytics Manager, Daniel Lee, was hired to improve user experience by taking quick actions from real-time data. 
+Since its inception, the <a href="https://www.evanscycles.com">Evans Cycles</a> website has consistently been in a state of evolution, adding features and functionality to keep pace with customers’ online shopping needs. But in terms of user experience and analytics, Evans Cycles was falling flat. Web Analytics Manager, Daniel Lee, was hired to improve user experience by taking quick actions from real-time data. 
 
 http://optimizely.wistia.com/medias/0xrvauyz4v?embedType=iframe&videoFoam=true&videoWidth=700
 
